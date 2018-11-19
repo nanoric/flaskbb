@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  FlaskBB\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-11-15 04:52-0400\n"
+"POT-Creation-Date: 2018-11-15 05:09-0400\n"
 "PO-Revision-Date: 2018-05-03 10:17+0000\n"
 "Last-Translator: Peter Justin\n"
 "Language: zh_Hans_CN\n"
@@ -1291,6 +1291,7 @@ msgid ""
 "amount of requests on this route."
 msgstr "为防止暴力攻击账户我们限制了该路由的请求数量."
 
+#: flaskbb-plugin-portal/portal/templates/index.html:142
 #: flaskbb/templates/forum/category_layout.html:9
 #: flaskbb/templates/forum/search_result.html:123
 #: flaskbb/templates/forum/search_result.html:208
@@ -1301,6 +1302,7 @@ msgstr "主题"
 
 #: flaskbb-plugin-conversations/conversations/templates/conversation.html:40
 #: flaskbb-plugin-conversations/conversations/templates/conversation.html:91
+#: flaskbb-plugin-portal/portal/templates/index.html:151
 #: flaskbb/templates/forum/category_layout.html:10
 #: flaskbb/templates/forum/edit_forum.html:32
 #: flaskbb/templates/forum/forum.html:50
@@ -1478,6 +1480,7 @@ msgstr "暂无用户"
 msgid "Registered users online"
 msgstr "在线注册用户"
 
+#: flaskbb-plugin-portal/portal/templates/index.html:191
 #: flaskbb/templates/forum/index.html:25
 msgid "Guests online"
 msgstr "在线来宾用户"
@@ -1504,6 +1507,7 @@ msgstr "编辑帖子"
 msgid "New Post"
 msgstr "发新帖"
 
+#: flaskbb-plugin-portal/portal/templates/index.html:180
 #: flaskbb/templates/forum/online_users.html:1
 #: flaskbb/templates/forum/online_users.html:13
 msgid "Online Users"
@@ -1814,6 +1818,7 @@ msgstr "帖子"
 msgid "topics"
 msgstr "主题"
 
+#: flaskbb-plugin-portal/build/lib/portal/templates/index.html:136
 #: flaskbb-plugin-portal/portal/templates/index.html:136
 #: flaskbb/templates/management/overview.html:76
 msgid "Statistics"
@@ -2207,13 +2212,27 @@ msgstr "垃圾箱"
 msgid "Sent Messages"
 msgstr "已发送的消息"
 
+#: flaskbb-plugin-portal/build/lib/portal/templates/index.html:87
 #: flaskbb-plugin-portal/portal/templates/index.html:87
 msgid "News"
 msgstr "新消息"
 
+#: flaskbb-plugin-portal/build/lib/portal/templates/index.html:113
 #: flaskbb-plugin-portal/portal/templates/index.html:113
 msgid "Recent Topics"
 msgstr "最近的主题"
+
+#: flaskbb-plugin-portal/portal/templates/index.html:160
+msgid "Registered Users"
+msgstr "已注册用户"
+
+#: flaskbb-plugin-portal/portal/templates/index.html:170
+msgid "Newest User"
+msgstr "最新用户"
+
+#: flaskbb-plugin-portal/portal/templates/navigation_snippet.html:3
+msgid "Portal"
+msgstr "首页"
 
 #: flaskbb-plugin-ranks/src/flaskbb_ranks/templates/rank_forum_overview.html:1
 msgid "Ranks Overview"
@@ -2253,3 +2272,4 @@ msgstr "邮件测试服务器"
 #: flaskbb-plugin-test-mail/test_mail/templates/test_mail.html:20
 msgid "Back to Settings"
 msgstr "回到设置页面"
+

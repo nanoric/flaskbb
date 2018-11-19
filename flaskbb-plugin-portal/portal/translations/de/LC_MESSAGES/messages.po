@@ -1,0 +1,69 @@
+# German translations for PROJECT.
+# Copyright (C) 2015 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-11-15 05:20-0400\n"
+"PO-Revision-Date: 2015-01-05 21:38+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: build/lib/portal/views.py:37 portal/views.py:37
+msgid ""
+"Please install the plugin first to configure the forums which should be "
+"displayed."
+msgstr ""
+"Bitte installieren sie das Plugin zuerst. Danach können sie es in der "
+"Administration konfigurieren."
+
+#: build/lib/portal/templates/index.html:87 portal/templates/index.html:87
+msgid "News"
+msgstr "Neuigkeiten"
+
+#: build/lib/portal/templates/index.html:113 portal/templates/index.html:113
+msgid "Recent Topics"
+msgstr "Aktuelle Themen"
+
+#: build/lib/portal/templates/index.html:136 portal/templates/index.html:136
+msgid "Statistics"
+msgstr "Statisiken"
+
+#: build/lib/portal/templates/index.html:142 portal/templates/index.html:142
+msgid "Topics"
+msgstr ""
+
+#: build/lib/portal/templates/index.html:151 portal/templates/index.html:151
+msgid "Posts"
+msgstr ""
+
+#: build/lib/portal/templates/index.html:160 portal/templates/index.html:160
+msgid "Registered Users"
+msgstr ""
+
+#: build/lib/portal/templates/index.html:170 portal/templates/index.html:170
+msgid "Newest User"
+msgstr ""
+
+#: build/lib/portal/templates/index.html:180 portal/templates/index.html:180
+msgid "Online Users"
+msgstr ""
+
+#: build/lib/portal/templates/index.html:191 portal/templates/index.html:191
+msgid "Guests online"
+msgstr ""
+
+#: build/lib/portal/templates/navigation_snippet.html:3
+#: portal/templates/navigation_snippet.html:3
+msgid "Portal"
+msgstr ""
+
